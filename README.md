@@ -9,7 +9,7 @@
 <a href="https://mackenly.com/"><img src="https://img.shields.io/badge/Personal Site-282C34?&logo=google-chrome&logoColor=F68D2E" height=25></a> <a href="https://twitter.com/mackenlyjones"><img src="https://img.shields.io/badge/Twitter-282C34?&logo=twitter&logoColor=1DA1F2" height=25></a> <a href="https://www.linkedin.com/in/mackenly/"><img src="https://img.shields.io/badge/Linkedin-282C34?logo=linkedin&logoColor=0A66C2" height=25></a>
 
 Want to hear a joke?<br>
-<img src="https://readme-jokes.vercel.app/api?theme=watermelon&hideBorder" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api?theme=watermelon&hideBorder" alt="Jokes Card" width="100%" height="auto" />
 ### Tools & Clouds
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Notion-282C34?logo=notion&logoColor=000000" alt="Notion logo" title="Notion" height="25" />

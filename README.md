@@ -6,7 +6,7 @@
 - 📫 How to reach me: [mackenly.com](https://mackenly.com/) | t:[@mackenlyjones](https://twitter.com/mackenlyjones/)
 - ⚡ Fun fact: I enjoy scuba 🤿
 
-<a href="https://twitter.com/mackenlyjones"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mackenly/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/mackenlyjones/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+<a href="https://mackenly.com/"><img src="https://img.shields.io/badge/Personal Site-282C34?&logo=google-chrome&logoColor=F68D2E" height=25></a> <a href="https://twitter.com/mackenlyjones"><img src="https://img.shields.io/badge/Twitter-282C34?&logo=twitter&logoColor=1DA1F2" height=25></a> <a href="https://www.linkedin.com/in/mackenly/"><img src="https://img.shields.io/badge/Linkedin-282C34?logo=linkedin&logoColor=0A66C2" height=25></a>
 
 Want to hear a joke?<br>
 <img src="https://readme-jokes.vercel.app/api?theme=watermelon&hideBorder" alt="Jokes Card" />

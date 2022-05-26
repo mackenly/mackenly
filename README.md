@@ -2,7 +2,7 @@
 
 - 🔭 I’m working on expanding my open source work and side projects
 - 🌱 I’m currently diving deeper into advanced web dev
-- 💬 Ask me about projects, business opertunties, or anything really 🙂
+- 💬 Ask me about projects, business opportunities, or anything really 🙂
 - 📫 How to reach me: [mackenly.com](https://mackenly.com/) | t:[@mackenlyjones](https://twitter.com/mackenlyjones/)
 - ⚡ Fun fact: I enjoy scuba 🤿
 

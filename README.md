@@ -32,7 +32,7 @@ Want to hear a joke?<br>
 &nbsp;
 <img src="https://img.shields.io/badge/CSharp-282C34?logo=csharp&logoColor=239120" alt="C# logo" title="C#" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=3178C6" alt="Java logo" title="Java" height="25" />
+<img src="https://img.shields.io/badge/Java-282C34?logo=openjdk&logoColor=3178C6" alt="Java logo" title="Java" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" />
 &nbsp;

@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m working on expanding my open source work and side projects
-- 🌱 I’m currently diving deeper into advanced web dev
+- 🔭 I’m working on expanding my open-source work and side projects
+- 🌱 I'm currently working on expanding my skills in full stack engineering
 - 💬 Ask me about projects, business opportunities, or anything really 🙂
-- 📫 How to reach me: [mackenly.com](https://mackenly.com/) | t:[@mackenlyjones](https://twitter.com/mackenlyjones/)
+- 📫 How to reach me: [mackenly.com](https://mackenly.com/) | x/t:[@mackenlyjones](https://x.com/mackenlyjones/)
 - ⚡ Fun fact: I enjoy scuba 🤿
 
 <a href="https://mackenly.com/"><img src="https://img.shields.io/badge/Personal Site-282C34?&logo=google-chrome&logoColor=F68D2E" height=25></a> <a href="https://twitter.com/mackenlyjones"><img src="https://img.shields.io/badge/Twitter-282C34?&logo=twitter&logoColor=1DA1F2" height=25></a> <a href="https://www.linkedin.com/in/mackenly/"><img src="https://img.shields.io/badge/Linkedin-282C34?logo=linkedin&logoColor=0A66C2" height=25></a>

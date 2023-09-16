@@ -6,43 +6,62 @@
 - 📫 How to reach me: [mackenly.com](https://mackenly.com/) | x/t:[@mackenlyjones](https://x.com/mackenlyjones/)
 - ⚡ Fun fact: I enjoy scuba 🤿
 
-<a href="https://mackenly.com/"><img src="https://img.shields.io/badge/Personal Site-282C34?&logo=google-chrome&logoColor=F68D2E" height=25></a> <a href="https://twitter.com/mackenlyjones"><img src="https://img.shields.io/badge/Twitter-282C34?&logo=twitter&logoColor=1DA1F2" height=25></a> <a href="https://www.linkedin.com/in/mackenly/"><img src="https://img.shields.io/badge/Linkedin-282C34?logo=linkedin&logoColor=0A66C2" height=25></a>
 
-Want to hear a joke?<br>
-<img src="https://readme-jokes.vercel.app/api?theme=watermelon&hideBorder" alt="Jokes Card" width="100%" height="auto" />
+<a href="https://mackenly.com/">![Static Badge](https://img.shields.io/badge/-Personal_Site-grey?style=flat&logo=googlechrome&logoColor=orange&link=https%3A%2F%2Fmackenly.com%2F)
+</a> <a href="https://x.com/mackenlyjones">![Static Badge](https://img.shields.io/badge/-Follow_%40mackenlyjones-grey?style=flat&logo=x&logoColor=white&link=https%3A%2F%2Fmackenly.com%2F)
+</a> <a href="https://www.linkedin.com/in/mackenly/">![Static Badge](https://img.shields.io/badge/-Follow_%40mackenly-grey?style=flat&logo=linkedin&logoColor=blue&link=https%3A%2F%2Fmackenly.com%2F)</a> 
+
+#### GitHub Stats
+![GitHub followers](https://img.shields.io/github/followers/mackenly) 
+![GitHub User's stars](https://img.shields.io/github/stars/mackenly)
+![GitHub Sponsors](https://img.shields.io/github/sponsors/mackenly?label=github%20sponsors)
+
+![top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mackenly&theme=transparent&layout=compact)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=mackenly&show_icons=true&theme=transparent&rank_icon=github&custom_title=Stats)
+
 ### Tools & Clouds
-<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/Notion-282C34?logo=notion&logoColor=000000" alt="Notion logo" title="Notion" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-282C34?logo=adobe-creative-cloud&logoColor=DA1F26" alt="Adobe CC logo" title="Adobe Creative Cloud" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/Cloudflare-282C34?logo=cloudflare&logoColor=F38020" alt="Cloudflare logo" title="Cloudflare" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/AWS-282C34?logo=amazon-aws&logoColor=F96702" alt="AWS logo" title="AWS" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/Digital%20Ocean-282C34?logo=digitalocean&logoColor=0080FF" alt="Digital Ocean logo" title="Digital Ocean" height="25" />
-&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-VS_Code-grey?style=flat&logo=visual-studio-code&logoColor=blue)
+![Postman](https://img.shields.io/badge/-Postman-grey?style=flat&logo=postman)
+![Notion](https://img.shields.io/badge/-Notion-grey?style=flat&logo=notion&logoColor=black)
+![WordPress](https://img.shields.io/badge/-WordPress-grey?logo=wordpress)
+![ghost](https://img.shields.io/badge/-Ghost-grey?logo=ghost)
+![Sanity](https://img.shields.io/badge/-Sanity-grey?logo=sanity)
+![Adobe Creative Cloud](https://img.shields.io/badge/-Adobe_Creative_Cloud-grey?style=flat&logo=adobe-creative-cloud&logoColor=%23DA1F26)
+<br>![Cloudflare](https://img.shields.io/badge/-Cloudflare-grey?style=flat&logo=cloudflare&logoColor=%23F38020)
+![Firebase](https://img.shields.io/badge/-Firebase-grey?style=flat&logo=firebase&logoColor=%23FFCA28)
+![AWS](https://img.shields.io/badge/-AWS-grey?style=flat&logo=amazon-aws&logoColor=white)
+![Digital Ocean](https://img.shields.io/badge/-Digital_Ocean-grey?style=flat&logo=digitalocean)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-grey?style=flat&logo=googlecloud)
+![Cloudways](https://img.shields.io/badge/-Cloudways-grey?style=flat&logo=cloudways&logoColor=%232C39BD)
+![Azure](https://img.shields.io/badge/-Azure-grey?style=flat&logo=microsoftazure)
+![Vercel](https://img.shields.io/badge/-Vercel-grey?style=flat&logo=vercel)
+
+
+
+
 ### Languages, Libraries, & Frameworks
-<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/CSharp-282C34?logo=csharp&logoColor=239120" alt="C# logo" title="C#" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/Java-282C34?logo=openjdk&logoColor=3178C6" alt="Java logo" title="Java" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4" alt="PHP logo" title="PHP" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/Xamarin-282C34?logo=xamarin&logoColor=3498DB" alt="Xamarin logo" title="Xamarin" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
-&nbsp;
+![Node](https://img.shields.io/badge/-Node.js-grey?logo=node.js)
+![JavaScript](https://img.shields.io/badge/-JavaScript-grey?logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-grey?logo=typescript&logoColor=%233178C6)
+![C#](https://img.shields.io/badge/-C%23-grey?logo=csharp&logoColor=%23239120)
+![PHP](https://img.shields.io/badge/-PHP-grey?logo=php)
+![Java](https://img.shields.io/badge/-Java-grey?logo=oracle&logoColor=%23F80000)
+![Python](https://img.shields.io/badge/-Python-grey?logo=python&logoColor=%233776AB)
+![HTML](https://img.shields.io/badge/-HTML-grey?logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-grey?logo=csswizardry)
+![SQL](https://img.shields.io/badge/-SQL-grey?logo=mysql)
+<br>![React](https://img.shields.io/badge/-React-grey?logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-grey?logo=nextdotjs)
+![Svelte](https://img.shields.io/badge/-Svelte-grey?logo=svelte)
+![.NET](https://img.shields.io/badge/-.NET-grey?logo=dotnet)
+![MAUI](https://img.shields.io/badge/-MAUI-grey?logo=dotnet)
+![CSS Modules](https://img.shields.io/badge/-CSS_Modules-grey?logo=cssmodules)
+
+
+
+
+*No, my profile photo isn't an NFT. It's just an old avatar that looks like a Wii me. 🕹️*
+
+#### Want to hear a joke?<br>
+<img src="https://readme-jokes.vercel.app/api?theme=watermelon&hideBorder" alt="Jokes Card" width="100%" height="auto" />

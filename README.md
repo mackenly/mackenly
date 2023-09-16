@@ -18,8 +18,6 @@
 
 ![top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mackenly&theme=transparent&layout=compact)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mackenly&show_icons=true&theme=transparent&rank_icon=github&custom_title=Stats)
-
 ### Tools & Clouds
 ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-grey?style=flat&logo=visual-studio-code&logoColor=blue)
 ![Postman](https://img.shields.io/badge/-Postman-grey?style=flat&logo=postman)

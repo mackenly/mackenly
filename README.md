@@ -25,6 +25,7 @@
 ![WordPress](https://img.shields.io/badge/-WordPress-grey?logo=wordpress)
 ![ghost](https://img.shields.io/badge/-Ghost-grey?logo=ghost)
 ![Sanity](https://img.shields.io/badge/-Sanity-grey?logo=sanity)
+![Kali](https://img.shields.io/badge/-Kali-grey?logo=kalilinux&logoColor=%23fff)
 ![Adobe Creative Cloud](https://img.shields.io/badge/-Adobe_Creative_Cloud-grey?style=flat&logo=adobe-creative-cloud&logoColor=%23DA1F26)
 <br>![Cloudflare](https://img.shields.io/badge/-Cloudflare-grey?style=flat&logo=cloudflare&logoColor=%23F38020)
 ![Firebase](https://img.shields.io/badge/-Firebase-grey?style=flat&logo=firebase&logoColor=%23FFCA28)
@@ -55,7 +56,6 @@
 ![.NET](https://img.shields.io/badge/-.NET-grey?logo=dotnet)
 ![MAUI](https://img.shields.io/badge/-MAUI-grey?logo=dotnet)
 ![CSS Modules](https://img.shields.io/badge/-CSS_Modules-grey?logo=cssmodules)
-
 
 
 

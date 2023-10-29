@@ -9,7 +9,7 @@
 
 <a href="https://mackenly.com/">![Static Badge](https://img.shields.io/badge/-Personal_Site-grey?style=flat&logo=googlechrome&logoColor=orange&link=https%3A%2F%2Fmackenly.com%2F)
 </a> <a href="https://x.com/mackenlyjones">![Static Badge](https://img.shields.io/badge/-Follow_%40mackenlyjones-grey?style=flat&logo=x&logoColor=white&link=https%3A%2F%2Fmackenly.com%2F)
-</a> <a href="https://www.linkedin.com/in/mackenly/">![Static Badge](https://img.shields.io/badge/-Follow_%40mackenly-grey?style=flat&logo=linkedin&logoColor=blue&link=https%3A%2F%2Fmackenly.com%2F)</a> 
+</a> <a href="https://www.linkedin.com/in/mackenly/">![Static Badge](https://img.shields.io/badge/-Connect_%40mackenly-grey?style=flat&logo=linkedin&logoColor=blue&link=https%3A%2F%2Fmackenly.com%2F)</a> 
 
 #### GitHub Stats
 ![GitHub followers](https://img.shields.io/github/followers/mackenly) 

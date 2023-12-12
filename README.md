@@ -43,6 +43,7 @@
 ![Node](https://img.shields.io/badge/-Node.js-grey?logo=node.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-grey?logo=typescript&logoColor=%233178C6)
+![Rust](https://img.shields.io/badge/-Rust-grey?logo=rust&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-grey?logo=csharp&logoColor=%23239120)
 ![PHP](https://img.shields.io/badge/-PHP-grey?logo=php)
 ![Java](https://img.shields.io/badge/-Java-grey?logo=oracle&logoColor=%23F80000)

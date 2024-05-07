@@ -17,7 +17,11 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/mackenly)
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/mackenly?label=github%20sponsors)
 
-![top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mackenly&theme=transparent&layout=compact)
+![](https://raw.githubusercontent.com/mackenly/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/mackenly/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/mackenly/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/mackenly/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ### Tools & Clouds
 ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-grey?style=flat&logo=visual-studio-code&logoColor=blue)

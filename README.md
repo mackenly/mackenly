@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m working on expanding my open-source work and side projects, plus seeking a software engineering position
+- 🔭 Open to Work and expanding my open-source and side projects.
 - 🌱 I'm currently working on learning Rust and working through the "[Wizard book](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs)"
 - 💬 Ask me about projects, business/career opportunities, or anything really 🙂
 - 📫 How to reach me: [mackenly.com](https://mackenly.com/) | x/t:[@mackenlyjones](https://x.com/mackenlyjones/)

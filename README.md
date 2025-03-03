@@ -2,8 +2,8 @@
 
 - 🔭 Open to Work and expanding my open-source and side projects.
 - 🌱 I'm currently working on learning Rust and working through the "[Wizard book](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs)"
-- 💬 Ask me about projects, business/career opportunities, or anything really 🙂
-- 📫 How to reach me: [mackenly.com](https://mackenly.com/) | x/t:[@mackenlyjones](https://x.com/mackenlyjones/)
+- 💬 Ask me about projects, business/career opportunities, or whatever is on your mind
+- 📫 How to reach me: [mackenly.com](https://mackenly.com/) | X:[@mackenlyjones](https://x.com/mackenlyjones/)
 - ⚡ Fun fact: I enjoy scuba 🤿
 
 
@@ -55,7 +55,3 @@
 ![.NET](https://img.shields.io/badge/-.NET-grey?logo=dotnet)
 ![MAUI](https://img.shields.io/badge/-MAUI-grey?logo=dotnet)
 ![CSS Modules](https://img.shields.io/badge/-CSS_Modules-grey?logo=cssmodules)
-
-
-
-*No, my profile photo isn't an NFT. It's just an old avatar that looks like a Wii me. 🕹️*

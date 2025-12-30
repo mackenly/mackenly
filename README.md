@@ -3,13 +3,13 @@
 - 🔭 Open to Work and expanding my open-source and side projects.
 - 🌱 I'm currently working on learning Rust and working through the "[Wizard book](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs)"
 - 💬 Ask me about projects, business/career opportunities, or whatever is on your mind
-- 📫 How to reach me: [mackenly.com](https://mackenly.com/) | X:[@mackenlyjones](https://x.com/mackenlyjones/)
+- 📫 How to reach me: [mackenly.com](https://mackenly.com/) | X:[@mackenly](https://x.com/mackenly/)
 - ⚡ Fun fact: I enjoy scuba 🤿
 
 
 <a href="https://mackenly.com/">![Static Badge](https://img.shields.io/badge/-Personal_Site-grey?style=flat&logo=googlechrome&logoColor=orange&link=https%3A%2F%2Fmackenly.com%2F)
 </a> <a href="https://crtv.dev/">![Static Badge](https://img.shields.io/badge/-Tech_Blog-grey?style=flat&logo=googlechrome&logoColor=orange&link=https%3A%2F%2Fmackenly.com%2F)
-</a> <a href="https://x.com/mackenlyjones">![Static Badge](https://img.shields.io/badge/-Follow_%40mackenlyjones-grey?style=flat&logo=x&logoColor=white&link=https%3A%2F%2Fmackenly.com%2F)
+</a> <a href="https://x.com/mackenly">![Static Badge](https://img.shields.io/badge/-Follow_%40mackenly-grey?style=flat&logo=x&logoColor=white&link=https%3A%2F%2Fmackenly.com%2F)
 </a> <a href="https://www.linkedin.com/in/mackenly/">![Static Badge](https://img.shields.io/badge/-Connect_%40mackenly-grey?style=flat&logo=linkedin&logoColor=blue&link=https%3A%2F%2Fmackenly.com%2F)</a> 
 
 #### GitHub Stats
